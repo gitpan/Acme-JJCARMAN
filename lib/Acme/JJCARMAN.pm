@@ -1,6 +1,6 @@
 package Acme::JJCARMAN;
 
-use 5.006
+use 5.006;
 use strict;
 use warnings;
 
@@ -10,11 +10,11 @@ Acme::JJCARMAN - The great new Acme::JJCARMAN!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02_02
 
 =cut
 
-our $VERSION = '0.02_01';
+our $VERSION = '0.02_02';
 
 
 =head1 SYNOPSIS
